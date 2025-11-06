@@ -12,7 +12,6 @@ const Home = () => {
       <Hero />
       <AiTools />
       <Testimonial />
-      <Plan />
       <Footer />
     </>
   );

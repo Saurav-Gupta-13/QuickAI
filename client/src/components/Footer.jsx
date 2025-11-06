@@ -66,7 +66,7 @@ const Footer = () => {
         <a
           target="_blank"
           rel="noopener noreferrer"
-          href="https://elyse502.github.io/Elysee-Portfolio"
+          href="https://github.com/Saurav-Gupta-13"
           className="text-indigo-400 hover:underline"
         >
           Saurav Gupta
