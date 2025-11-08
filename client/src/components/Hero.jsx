@@ -26,37 +26,11 @@ const Hero = () => {
         >
           Start creating now
         </button>
-        <button className="bg-transparent border border-gray-500 text-gray-200 hover:bg-gray-800 px-10 py-3 rounded-lg hover:border-indigo-500 transition-all duration-200 hover:scale-105 active:scale-95">
-          Watch demo
-        </button>
+        
       </div>
 
-      {/* Trusted Section */}
-      <div className="flex items-center gap-3 mt-10 mx-auto text-gray-400">
-        <img src={assets.user_group} alt="users" className="h-8 opacity-80" /> 
-        Trusted by <span className="text-white font-medium">10k+ people</span>
-      </div>
 
       {/* Logos Marquee */}
-      <div className="overflow-hidden mt-16 w-full flex justify-center">
-        <div className="w-full max-w-5xl">
-          <div className="flex gap-12 animate-marquee whitespace-nowrap opacity-80">
-            <img src={assets.facebook} alt="Facebook" className="h-8 inline-block" />
-            <img src={assets.slack} alt="Slack" className="h-8 inline-block" />
-            <img src={assets.framer} alt="Framer" className="h-8 inline-block" />
-            <img src={assets.netflix} alt="Netflix" className="h-8 inline-block" />
-            <img src={assets.google} alt="Google" className="h-8 inline-block" />
-            <img src={assets.linkedin} alt="LinkedIn" className="h-8 inline-block" />
-            {/* Duplicates for smooth loop */}
-            <img src={assets.facebook} alt="Facebook" className="h-8 inline-block" />
-            <img src={assets.slack} alt="Slack" className="h-8 inline-block" />
-            <img src={assets.framer} alt="Framer" className="h-8 inline-block" />
-            <img src={assets.netflix} alt="Netflix" className="h-8 inline-block" />
-            <img src={assets.google} alt="Google" className="h-8 inline-block" />
-            <img src={assets.linkedin} alt="LinkedIn" className="h-8 inline-block" />
-          </div>
-        </div>
-      </div>
     </div>
   );
 };
