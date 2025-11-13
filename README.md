@@ -304,8 +304,6 @@ https://neon.tech/
 
 **QUICKAI** - Supercharge your creativity with AI! 🚀
 
-**Made with ❤️ by <i>[Elysée NIYIBIZI](https://elyse502.github.io/Elysee-Portfolio/)</i>**
-
 [⬆ Back to Top](#table-of-contents)
 
 </div>
