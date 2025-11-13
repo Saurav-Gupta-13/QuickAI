@@ -18,8 +18,6 @@ AI-Powered Content Generation at Your Fingertips
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white)
 
-## LIVE - DEMO 🌐
-Visit the 👉 [_LINK 🔗_](https://quick-ai-gray-eight.vercel.app/)
 
 </div>
 
